@@ -1,2 +1,3 @@
-# toy_box
+# rust_training
+
 WIP Strage
